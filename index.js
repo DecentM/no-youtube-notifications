@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         No YouTube notifications
-// @namespace    http://decentm.net/
+// @namespace    http://decentm.com/
 // @version      1.0
 // @description  Remove the notification counter from YouTube's title
 // @author       DecentM
